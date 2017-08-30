@@ -1,2 +1,0 @@
-# DeepSpace
-My First Project
